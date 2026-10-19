@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently working on JAMC<br>🔎 Looking for job opportunities and FOSS projects to contribute<br>📚 Learning TypeScript and Java<br>🐕 Ask me about my dog!<br>
+💼 Currently working on ![JAMC](https://codeberg.org/JohnAntz/JAMC)<br>🔎 Looking for job opportunities and FOSS projects to contribute<br>📚 Learning TypeScript and Java<br>🐕 Ask me about my dog!<br>
 
 
 # 💻 Tech Stack:
